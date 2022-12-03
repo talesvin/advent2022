@@ -5,7 +5,7 @@
 #include <algorithm>
 
 int main(){
-    std::string fileName = "input";
+    std::string fileName = "input.txt";
     std::ifstream file {fileName};
 
     std::string calories;

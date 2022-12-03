@@ -6,7 +6,7 @@ int main(){
     // rock A - X, paper B - Y, scissor C - Z
     // rock - 1, paper - 2, scissor - 3
     // lost - 0, draw - 3, win - 6
-    std::string fileName = "input";
+    std::string fileName = "input.txt";
     std::ifstream file {fileName};
 
     std::string input;
