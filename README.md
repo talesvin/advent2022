@@ -3,7 +3,7 @@
 
 **Advent of Code 2022**
 
-- I'm compiling the files using
+- Compile commands:
 ```
-g++ -g -std=c++17 -Wall -Wextra -Werror -pedantic file.cpp 
+g++ -g -std=c++17 -Wall -Wextra -Werror -Wpedantic file.cpp -o out
 ```
